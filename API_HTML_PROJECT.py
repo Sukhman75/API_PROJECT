@@ -5,7 +5,7 @@ import termcolor
 header = pyfiglet.figlet_format("DAD JOKES.COM")
 header = termcolor.colored(header, color="blue")
 Value =input("What would you like to search for? ")
-url = "https://icanhazdadjokes.com/search"
+url = "https://icanhazdadjoke.com/search"
 res = requests.get(
 	url, 
 	headers ={"Accept": "application/json"},

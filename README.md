@@ -12,7 +12,11 @@ OPEN COMMAND LINE AND NAVIGATE TO THE DIRECTORY WHERE "PYTHON.EXE" FILE IS STORE
 AND TYPE COMMAND: python -m pip install requests 
 it will Download and install the package. 
 
-
+To use "pyfiglet" module you have to first install it:
+1) Open Command Line 
+2) Navigate to the Direcctory where python.exe file is installed
+3) Type command "pip install pyfiglet"
+To use "termcolor" module do same as above and type command: "pip install termcolor"
 #CODE:
 Import the package using : "import requests"
 
