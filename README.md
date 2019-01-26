@@ -1,6 +1,6 @@
 # API_PROJECT
-Making HTTP requests with PYTHON
-THIS PROJECT IS BUILD TO LEARN HOW ONE CAN MAKE HTTP REQUETS AND FETCH THE JSON DATA FROM A WEBSITE.
+Making API requests with PYTHON.
+THIS PROJECT IS BUILD TO LEARN HOW ONE CAN MAKE API REQUETS AND FETCH THE JSON DATA FROM A WEBSITE.
 
 HERE I AM USING A WEBSITE: https://icanhazdadjoke.com/
 For more about API related information visit: https://icanhazdadjoke.com/api
